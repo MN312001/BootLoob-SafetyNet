@@ -1,10 +1,10 @@
-# v2.3.1
+# v2.4.1
 
 ## Mohammad-Ismail
 
 - Boot Loop Devices with [ Ramdisk NO ] supported by Android 8 to 12
 
-- Support for Magisk 17+ module updates
+- Support for Magisk 19+ module updates
 
 - Restored support for Android 8
 
