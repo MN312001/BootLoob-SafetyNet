@@ -1,4 +1,4 @@
-## BootLoob-SafetyNet v2.4.1
+## BootLoob-SafetyNet
 
 ## Mohammad-Ismail
 
