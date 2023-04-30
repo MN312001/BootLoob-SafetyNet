@@ -14,7 +14,7 @@
 
 
 - | [TikTok](https://tiktok.com/@mn312001) |
-- | [YouTube](https://www.youtube.com/@SY5G) |
+- | [YouTube](https://www.youtube.com/@SY4G) |
 - | [Telegram](https://t.me/MN312001) |
 - | [Facebook](https://www.facebook.com/M.N.312001) |
 - | [Instagram](https://www.instagram.com/mn312001) |
