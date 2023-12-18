@@ -2,7 +2,7 @@
 
 ## Mohammad-Ismail
 
-- Boot Loop Devices with [ Ramdisk NO ] supported by Android 7.1.1 to 13 beta 3
+- Boot Loop Devices with [ Ramdisk NO ] supported by Android 7.1.1 to 14
 
 - Support for Magisk 19+ module updates
 
