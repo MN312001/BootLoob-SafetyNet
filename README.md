@@ -2,11 +2,11 @@
 
 ## Mohammad-Ismail
 
-- Boot Loop Devices with [ Ramdisk NO ] supported by Android 7.1.1 to 14
+- Boot Loop Devices with [ Ramdisk NO ] supported by Android 8.1 to 14
 
 - Support for Magisk 19+ module updates
 
-- Restored support for Android 7.1.1
+- Restored support for Android 8.1
 
 - This version only supports Magisk and Zygisk (Magisk 19+ and newer).
 
